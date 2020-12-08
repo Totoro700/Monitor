@@ -1,0 +1,2 @@
+C:\Users\ianfr\source\repos\Monitor\Debug\Monitor.exe
+C:\Users\ianfr\source\repos\Monitor\Debug\Monitor.pdb
